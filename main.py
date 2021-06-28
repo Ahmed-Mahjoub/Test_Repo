@@ -1,3 +1,3 @@
-def main():
-  print("fin tech")
-main()
+def main(name):
+  print(name )
+main("Fintech")
